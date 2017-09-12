@@ -30,13 +30,11 @@
 
 
 # Basic Overview
-
 Sharing is caring! We all want to share newest images, music, video clips with friends and relatives,so today I am about to bring in to you such a program with the source code which enables users to share any file from desktop using drag & drop modus operandi. EasyDragDrop is definitely an amazing programm and easy to use that allows you to share files from desktop just by dragging and dropping technique. That means, by using EasyDragDrop you can certainly send any sort of file just by putting it somewhere on your monitor.
 
  EasyDragDrop is actually a cross platform application that is readily available for Windows, Linux. Unfortunately, Mac  users won’t be able to have the taste of this application – as of now 
 
 # Why Should i use it?
-
 With the drag and drop application builder will make that absolutely possible for you. You could structure any java app design based on your personality. This is pretty cool! It’s a great way to have an app that really defines your own identity. Because drag and drop technology is extremely easy to utilize, you can make wonderful applications. With it, you have a larger chance to attract so many customers. Of course, the immediate question that will come to your mind is that “What does a drag and drop application builder has in stored for me?” Actually, there are so many brilliant things you will be able to enjoy once you use it in creating your own app. Take a closer look a the documentation below and you will find  exactly what you need.
 
  * Save more than 100 hours of software by having a good looking drag & drop option available in the Windows Desktop.
@@ -45,7 +43,6 @@ With the drag and drop application builder will make that absolutely possible fo
  
  
 # Benefits of EasyDragDrop
-___
 EasyDragDrop has loads of features. However, the following list is a glimpse of that huge features list.
 
 * Availability to share files from desktop programmatically.
@@ -65,8 +62,6 @@ ___
 
 
 # What You will Need?
-___
-
 * About 15 minutes.
 * A favorite JAVA text editor or IDE.
 * JDK 8 or later.
@@ -85,22 +80,19 @@ ___
 
 
 # Support
-___
 Please [open an issue](https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE/issues) for support or even more [open a pull request](https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE/pulls).
 
 
 
 # License
-___
 <p> This project is licensed under the MIT License - see the <a href="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE"> Licence.md </a> file for details</p>
 
 
 # Contacts
-
 Don't hesitate to ask me whatever you want. Stay tuned for more awesome projects :kissing_heart: . Follow me or Connect me via <a href="https://www.linkedin.com/in/panagiotis-drakatos-b56a0385/">Linkedin<a/>
 
 # Contributing
-___
+
 Please contribute using [Github Flow](https://github.com/PanagiotisDrakatos/EasyDragDrop). Create a branch, add commits.
 
  1. Fork it: git clone https://github.com/PanagiotisDrakatos/EasyDragDrop.git
@@ -113,5 +105,6 @@ Please contribute using [Github Flow](https://github.com/PanagiotisDrakatos/Easy
  
  
  # Donate
+ 
  If you have found this project useful, please consider making a donation to contribute for more awesome projects
   [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Drakatos)

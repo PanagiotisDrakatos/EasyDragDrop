@@ -19,8 +19,8 @@
   - [Basic Overview](#basic-overview)
   - [Why Should i use it?](#why-should-i-use-it)
   - [Benefits of DragDropEasy](#benefits-of-dragdropeasy)
-  - [What You will Need](#what-you-will-need)
   - [Features Instructions](#features-instructions)
+  - [What You will Need](#what-you-will-need)
   - [Build The Sample](#build-the-sample)
   - [Support](#support)
   - [License](#license)
@@ -46,13 +46,21 @@ The weather app supports global locations and has customizable Live Tile support
 ___
 DragDropEasy has loads of features. However, the following list is a glimpse of that huge features list.
 
-* Share files from desktop.
+* Share files from desktop programmatically.
 * Upload any file including audio, video, link, image etc.
 * Value For Money.
 * Awesome UI app.
 * Easy to use.
 * Available SourceCode.
 * Proper way to generate the .jar file with dependencies.
+
+
+# Features Instructions
+___
+*  Maven Sample project Included with proper way to construct an app.
+*  The working Java sample includes only the front End of the application and the basic checking methods.
+*  The Java Demo demonstrate a basic restriction that accept valid files in Microsoft Worksheet Format. It can be easily controlled and be changed about whatever restriction formats you want(audio, video, link, image etc) as it shown it the above tutorial .gif.
+
 
 # What You will Need?
 ___
@@ -62,15 +70,7 @@ ___
 * JDK 8 or later.
 * Download and unzip the source repository for this guide.
 * cd into the Path that you previous Downlaod.
-* After choosing you best idea On the above path, choose File | Open Project.
 * et voila! You are ready to adapt it to match it with your specifications.
-
-# Features Instructions
-___
-*  Maven Sample project Included with proper way to construct an app.
-*  The working Java sample includes only the front End of the application and the basic checking methods.
-*  The Java Demo demonstrate a basic restriction that accept valid files in Microsoft Worksheet Format. It can be easily controlled and be changed about whatever restriction formats you want(audio, video, link, image etc) as it shown it the above tutorial images.
-
 
 
 # Build The Sample
@@ -84,13 +84,13 @@ ___
 
 # Support
 ___
-Please [open an issue](https://github.com/PanagiotisDrakatos/SpringBoot-MVC-Hibernate-JPA-Mysql/issues) for support or even more [open a pull request](https://github.com/PanagiotisDrakatos/SpringBoot-MVC-Hibernate-JPA-Mysql/pulls).
+Please [open an issue](https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE/issues) for support or even more [open a pull request](https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE/pulls).
 
 
 
 # License
 ___
-<p> This project is licensed under the MIT License - see the <a href="https://github.com/PanagiotisDrakatos/JavaRansomware/blob/master/LICENSE">Licence.md</a> file for details</p>
+<p> This project is licensed under the MIT License - see the <a href="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE"> Licence.md </a> file for details</p>
 
 
 # Contacts
@@ -99,9 +99,9 @@ Don't hesitate to ask me whatever you want. Stay tuned for more awesome projects
 
 # Contributing
 ___
-Please contribute using [Github Flow](https://github.com/PanagiotisDrakatos/SpringBoot-MVC-Hibernate-JPA-Mysql). Create a branch, add commits.
+Please contribute using [Github Flow](https://github.com/PanagiotisDrakatos/EasyDragDrop). Create a branch, add commits.
 
- 1. Fork it: git clone https://github.com/PanagiotisDrakatos/SpringBoot-MVC-Hibernate-JPA-Mysql.git
+ 1. Fork it: git clone https://github.com/PanagiotisDrakatos/EasyDragDrop.git
  2. Create your feature branch: git checkout -b my-new-feature
  3. Commit your changes: git commit -am 'Add some feature'
  4. Push to the branch: git push origin my-new-feature
@@ -111,5 +111,5 @@ Please contribute using [Github Flow](https://github.com/PanagiotisDrakatos/Spri
  
  
  # Donate
- If you have found this project useful, please consider making a donation     
+ If you have found this project useful, please consider making a donation to contribute for more awesome projects
   [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.me/Drakatos)

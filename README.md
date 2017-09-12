@@ -46,13 +46,13 @@ The weather app supports global locations and has customizable Live Tile support
 ___
 DragDropEasy has loads of features. However, the following list is a glimpse of that huge features list.
 
-* Share files from desktop programmatically.
-* Upload any file including audio, video, link, image etc.
+* Availability to share files from desktop programmatically.
 * Value For Money.
 * Awesome UI app.
+* Availability to upload any file including audio, video, link, image etc.
 * Easy to use.
-* Available SourceCode.
-* Proper way to generate the .jar file with dependencies.
+* Proper way to generate the .jar file with dependencies with maven.
+* Availability of the source code to the public.
 
 
 # Features Instructions

@@ -1,10 +1,13 @@
 
+
 <h1 align="center">
+  <img align="left" width="100" height="100" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
   <br>
     <img width="175" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/Benefit-DragDrop-icon-white.png">
   <br>
   EasyDragDrop Implementation
   <br>
+  <img align="right" width="100" height="100" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
 </h1>
 
 <h4 align="center">A minimal java desktop app with awesome UI based on <a href="https://docs.oracle.com/javase/tutorial/uiswing/">Swing</a>.</h4>

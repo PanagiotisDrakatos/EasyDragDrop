@@ -30,14 +30,15 @@
 
 
 # Basic Overview
-Even so, today I am about to bring in to you such a program with the source code which enables users to share any file from desktop using drag & drop modus operandi. DragDropEasy is definitely an amazing programm and easy to use that allows you to share files from desktop just by dragging and dropping technique. That means, by using DragDropEasy you can certainly send any sort of file just by putting it somewhere on your monitor.
+
+With the drag and drop application builder will make that absolutely possible for you. You could structure any java app design based on your personality. This is pretty cool! It’s a great way to have an app that really defines your own identity. Because drag and drop technology is extremely easy to utilize, you can make wonderful applications. With it, you have a larger chance to attract so many customers. Of course, the immediate question that will come to your mind is that “What does a drag and drop application builder has in stored for me?” Actually, there are so many brilliant things you will be able to enjoy once you use it in creating your own app. Take a closer look a the documentation below and you will find  exactly what you need.
 
  DragDropEasy is actually a cross platform application that is readily available for Windows, Linux. Unfortunately, Mac  users won’t be able to have the taste of this application – as of now 
 
 # Why Should i use it?
-The weather app supports global locations and has customizable Live Tile support. It is a nice option for the times you just need to check in on the weather to plan for your week ahead, your weekend plans or any other times when the weather could play a factor. This WeatherAPP has a host of updates since released, with a few new features added to the mix.
+Sharing is caring! We all want to share newest images, music, video clips with friends and relatives,so today I am about to bring in to you such a program with the source code which enables users to share any file from desktop using drag & drop modus operandi. EasyDragDrop is definitely an amazing programm and easy to use that allows you to share files from desktop just by dragging and dropping technique. That means, by using DragDropEasy you can certainly send any sort of file just by putting it somewhere on your monitor.
 
- * Save more than 100 hours of software by having a good looking weather option available in the Windows Desktop.
+ * Save more than 100 hours of software by having a good looking drag & drop option available in the Windows Desktop.
  * There are several brilliant functions, what could give you the value of your money. It is free and open source and is intended to be used by everyone.
  * Easily implementation by any programmer and full featured software with source code.
  

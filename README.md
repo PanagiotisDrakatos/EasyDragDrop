@@ -76,7 +76,7 @@ ___
 
 # Build The Sample
 <ol>
-<li>If you download the samples ZIP, be sure to unzip the entire archive, not just the folder with the sample you want to build. </li>
+<li>If you download the samples ZIP, be sure to unzip the entire archive. </li>
 <li>Start Netbeans and select <strong>File</strong> &gt; <strong>Open</strong> &gt; <strong>Project</strong>.</li>
 <li>Press Ctrl+Shift+B, or select <strong>Build</strong> &gt; <strong>Clean & Build Project</strong>.</li>
 </ol>

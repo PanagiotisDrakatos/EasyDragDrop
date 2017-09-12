@@ -1,14 +1,17 @@
 
 <h1 align="center">
   <br>
-  <a href="" alt="Markdownify" width="200"></a>
+  <a href="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/Benefit-DragDrop-icon-white.png" alt="Markdownify" width="200"></a>
   <br>
   EasyDragDrop Implementation
   <br>
 </h1>
 
+<h4 align="center">A minimal java desktop app with awesome UI based on <a href="https://docs.oracle.com/javase/tutorial/uiswing/">Swing</a>.</h4>
 
-
+<p align="center">
+  <img width="100%" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/app1.PNG">
+</p>
 
 
 ## Table of Contents :smile:

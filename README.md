@@ -55,7 +55,7 @@ EasyDragDrop has loads of features. However, the following list is a glimpse of 
 
 
 # Features Instructions
-___
+
 *  Maven Sample project Included with proper way to construct an app.
 *  The working Java sample includes only the front End of the application and the basic checking methods.
 *  The Java Demo demonstrate a basic restriction that accept valid files in Microsoft Worksheet Format. It can be easily controlled and be changed about whatever restriction formats you want(audio, video, link, image etc) as it shown it the above tutorial .gif.

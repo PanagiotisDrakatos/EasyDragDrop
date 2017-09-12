@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/Benefit-DragDrop-icon-white.png" alt="Markdownify" width="200"></a>
+    <img width="100%" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/Benefit-DragDrop-icon-white.png">
   <br>
   EasyDragDrop Implementation
   <br>

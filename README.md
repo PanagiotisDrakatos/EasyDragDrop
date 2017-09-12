@@ -31,12 +31,13 @@
 
 # Basic Overview
 
-With the drag and drop application builder will make that absolutely possible for you. You could structure any java app design based on your personality. This is pretty cool! It’s a great way to have an app that really defines your own identity. Because drag and drop technology is extremely easy to utilize, you can make wonderful applications. With it, you have a larger chance to attract so many customers. Of course, the immediate question that will come to your mind is that “What does a drag and drop application builder has in stored for me?” Actually, there are so many brilliant things you will be able to enjoy once you use it in creating your own app. Take a closer look a the documentation below and you will find  exactly what you need.
+Sharing is caring! We all want to share newest images, music, video clips with friends and relatives,so today I am about to bring in to you such a program with the source code which enables users to share any file from desktop using drag & drop modus operandi. EasyDragDrop is definitely an amazing programm and easy to use that allows you to share files from desktop just by dragging and dropping technique. That means, by using EasyDragDrop you can certainly send any sort of file just by putting it somewhere on your monitor.
 
  EasyDragDrop is actually a cross platform application that is readily available for Windows, Linux. Unfortunately, Mac  users won’t be able to have the taste of this application – as of now 
 
 # Why Should i use it?
-Sharing is caring! We all want to share newest images, music, video clips with friends and relatives,so today I am about to bring in to you such a program with the source code which enables users to share any file from desktop using drag & drop modus operandi. EasyDragDrop is definitely an amazing programm and easy to use that allows you to share files from desktop just by dragging and dropping technique. That means, by using EasyDragDrop you can certainly send any sort of file just by putting it somewhere on your monitor.
+
+With the drag and drop application builder will make that absolutely possible for you. You could structure any java app design based on your personality. This is pretty cool! It’s a great way to have an app that really defines your own identity. Because drag and drop technology is extremely easy to utilize, you can make wonderful applications. With it, you have a larger chance to attract so many customers. Of course, the immediate question that will come to your mind is that “What does a drag and drop application builder has in stored for me?” Actually, there are so many brilliant things you will be able to enjoy once you use it in creating your own app. Take a closer look a the documentation below and you will find  exactly what you need.
 
  * Save more than 100 hours of software by having a good looking drag & drop option available in the Windows Desktop.
  * There are several brilliant functions, what could give you the value of your money. It is free and open source and is intended to be used by everyone.

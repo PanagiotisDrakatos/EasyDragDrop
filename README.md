@@ -9,8 +9,9 @@
 
 <h4 align="center">A minimal java desktop app with awesome UI based on <a href="https://docs.oracle.com/javase/tutorial/uiswing/">Swing</a>.</h4>
 
+
 <p align="center">
-  <img  src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/giphy.gif">
+  <img  src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/app1.PNG">
 </p>
 
 <!---
@@ -62,6 +63,9 @@ EasyDragDrop has loads of features. However, the following list is a glimpse of 
 *  The working Java sample includes only the front End of the application and the basic checking methods.
 *  The Java Demo demonstrate a basic restriction that accept valid files in Microsoft Worksheet Format. It can be easily controlled and be changed about whatever restriction formats you want(audio, video, link, image etc) as it shown it the above tutorial .gif.
 
+<p align="center">
+  <img  src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/giphy.gif">
+</p>
 
 # What You will Need?
 * About 15 minutes.

@@ -11,6 +11,7 @@
 
 <h4 align="center">A minimal java desktop app with awesome UI based on <a href="https://docs.oracle.com/javase/tutorial/uiswing/">Swing</a>.</h4>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Build Status](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop.svg?branch=master)](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop)
 [![GitHub contributors](https://img.shields.io/github/contributors/PanagiotisDrakatos/EasyDragDrop.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakatos/EasyDragDrop.svg)](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop/issues)

@@ -1,9 +1,9 @@
 
 <h1 align="center">
   <br>
-    <img align="left"  width="240" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
+    <img align="left"  width="200" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
     <img width="175" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/Benefit-DragDrop-icon-white.png">
-    <img align="right"  width="300" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
+    <img align="right"  width="200" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
   <br>
   EasyDragDrop Implementation
   <br>

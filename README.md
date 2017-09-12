@@ -18,7 +18,7 @@
 
   - [Basic Overview](#basic-overview)
   - [Why Should i use it?](#why-should-i-use-it)
-  - [Benefits of DragDropEasy](#benefits-of-dragdropeasy)
+  - [Benefits of EasyDragDrop](#benefits-of-easydragdrop)
   - [Features Instructions](#features-instructions)
   - [What You will Need](#what-you-will-need)
   - [Build The Sample](#build-the-sample)
@@ -43,9 +43,9 @@ Sharing is caring! We all want to share newest images, music, video clips with f
  * Easily implementation by any programmer and full featured software with source code.
  
  
-# Benefits of DragDropEasy
+# Benefits of EasyDragDrop
 ___
-DragDropEasy has loads of features. However, the following list is a glimpse of that huge features list.
+EasyDragDropy has loads of features. However, the following list is a glimpse of that huge features list.
 
 * Availability to share files from desktop programmatically.
 * Value For Money.

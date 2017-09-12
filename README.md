@@ -48,11 +48,11 @@ ___
 EasyDragDrop has loads of features. However, the following list is a glimpse of that huge features list.
 
 * Availability to share files from desktop programmatically.
-* Value For Money.
-* Awesome UI app.
+* It is value For Money.
+* It has an Awesome UI app.
 * Availability to upload any file including audio, video, link, image etc.
 * Easy to use.
-* Proper way to generate the .jar file with dependencies with maven.
+* Provides a proper way to generate the .jar file with dependencies with maven.
 * Availability of the source code to the public.
 
 

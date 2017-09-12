@@ -12,21 +12,23 @@
 <p align="center">
   <img width="100%" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/app1.PNG">
 </p>
-[comment]: <> (This is a comment, it will not be included)
-[//]: <> (This is also a comment.)
-## Table of Contents :smile:
 
-[//]: #   - [Basic Overview](#basic-overview)
-[//]: #   - [Why Should i use it?](#why-should-i-use-it)
-[//]: #   - [Benefits of EasyDragDrop](#benefits-of-easydragdrop)
-[//]: #   - [Features Instructions](#features-instructions)
-[//]: #   - [What You will Need](#what-you-will-need)
-[//]: #  - [Build The Sample](#build-the-sample)
-[//]: #  - [Support](#support)
-[//]: #  - [License](#license)
-[//]: #  - [Contacts](#contacts)
-[//]: #  - [Contributing](#contributing)
-[//]: #   - [Donate](#donate)
+<!---
+your comment goes here
+## Table of Contents :smile:
+ - [Basic Overview](#basic-overview)
+ - [Why Should i use it?](#why-should-i-use-it)
+ - [Benefits of EasyDragDrop](#benefits-of-easydragdrop)
+ - [Features Instructions](#features-instructions)
+ - [What You will Need](#what-you-will-need)
+ - [Build The Sample](#build-the-sample)
+ - [Support](#support)
+ - [License](#license)
+ - [Contacts](#contacts)
+ - [Contributing](#contributing)
+ - [Donate](#donate)
+and here
+-->
 
 
 # Basic Overview

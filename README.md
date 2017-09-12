@@ -12,7 +12,7 @@
 <p align="center">
   <img width="100%" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/app1.PNG">
 </p>
-
+[comment]: <> (This is a comment, it will not be included)
 [//]: <> (This is also a comment.)
 ## Table of Contents :smile:
 

@@ -1,6 +1,8 @@
 
-<img align="left"  width="175" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
 <h1 align="center">
+  <br>
+   <img align="left"  width="300" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/dragdrop_hd.gif">
+  </br>
   <br>
     <img width="175" src="https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/ImagesDoc/Benefit-DragDrop-icon-white.png">
   <br>

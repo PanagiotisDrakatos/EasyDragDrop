@@ -95,7 +95,7 @@ EasyDragDrop has loads of features. However, the following list is a glimpse of 
 
 
 # Support
-Please [open an issue](https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE/issues) for support or even more [open a pull request](https://github.com/PanagiotisDrakatos/EasyDragDrop/blob/master/LICENSE/pulls).
+Please [open an issue](https://github.com/PanagiotisDrakatos/EasyDragDrop/issues) for support or even more [open a pull request](https://github.com/PanagiotisDrakatos/EasyDragDrop/pulls).
 
 
 

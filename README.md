@@ -14,7 +14,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 [![Build Status](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop.svg?branch=master)](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop)
 [![GitHub contributors](https://img.shields.io/github/contributors/PanagiotisDrakatos/EasyDragDrop.svg)](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop)
-[![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakatos/EasyDragDrop.svg)](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop/issues)
+[![GitHub Issues](https://img.shields.io/github/issues/PanagiotisDrakatos/EasyDragDrop.svg)](https://github.com/PanagiotisDrakatos/EasyDragDrop/issues)
 [![License](https://img.shields.io/badge/license-MIT-orange.svg)](https://opensource.org/licenses/MIT)
 [![GitHub pull requests](https://img.shields.io/github/issues-pr/PanagiotisDrakatos/EasyDragDrop.svg)](https://travis-ci.org/PanagiotisDrakatos/EasyDragDrop/pull_requests)
 
